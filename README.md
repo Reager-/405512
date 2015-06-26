@@ -1,4 +1,1 @@
-405512
-======
-
-Repository 405512
+Some excersises of the Computational Graphics course
